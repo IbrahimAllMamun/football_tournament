@@ -1,0 +1,1324 @@
+{
+    "players":[
+     {
+      "SL": 1,
+      "name": "Md Shahariar Hossain Shakib",
+      "department": "Zoology",
+      "session": "2021-22",
+      "playingPosition": "CDM",
+      "image": "/images/image_1.jpg"
+     },
+     {
+      "SL": 2,
+      "name": "A K M Sumon",
+      "department": "Chemistry",
+      "session": "2022-23",
+      "playingPosition": "LW",
+      "image": "/images/image_2.jpg"
+     },
+     {
+      "SL": 3,
+      "name": "Srabon Islam Shovo",
+      "department": "Pharmacy",
+      "session": "2022-23",
+      "playingPosition": "GK",
+      "image": "/images/image_3.jpg"
+     },
+     {
+      "SL": 4,
+      "name": "Tauhidull Islam",
+      "department": "Pharmacy",
+      "session": "2022-23",
+      "playingPosition": "CM",
+      "image": "/images/image_4.jpg"
+     },
+     {
+      "SL": 5,
+      "name": "Sefat khan",
+      "department": "zoology",
+      "session": "2022-23",
+      "playingPosition": "GK",
+      "image": "/images/image_5.jpg"
+     },
+     {
+      "SL": 6,
+      "name": "MD.RATAN ALI",
+      "department": "Soil, Water, and Environment",
+      "session": "2022-23",
+      "playingPosition": "CM",
+      "image": "/images/image_6.jpg"
+     },
+     {
+      "SL": 7,
+      "name": "Md.Noman Bin Sabid shawn",
+      "department": "Pharmacy",
+      "session": "2022-23",
+      "playingPosition": "LB",
+      "image": "/images/image_7.jpg"
+     },
+     {
+      "SL": 8,
+      "name": "Nazrul Islam",
+      "department": "Statistics",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_8.jpg"
+     },
+     {
+      "SL": 9,
+      "name": "Rishat",
+      "department": "Pharmacy",
+      "session": "2021-22",
+      "playingPosition": "LB",
+      "image": "/images/image_9.jpg"
+     },
+     {
+      "SL": 10,
+      "name": "Tusher Imran",
+      "department": "Statistics",
+      "session": "2021-22",
+      "playingPosition": "LW",
+      "image": "/images/image_10.jpg"
+     },
+     {
+      "SL": 11,
+      "name": "Mosiur Rahman Tanim",
+      "department": "Soil, Water, and Environment",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_11.jpg"
+     },
+     {
+      "SL": 12,
+      "name": "Taifur",
+      "department": "Mathematics",
+      "session": "2022-23",
+      "playingPosition": "CM",
+      "image": "/images/image_12.jpg"
+     },
+     {
+      "SL": 13,
+      "name": "Hasnat Ahmmed",
+      "department": "Mathematics",
+      "session": "2017-18",
+      "playingPosition": "LW",
+      "image": "/images/image_13.jpg"
+     },
+     {
+      "SL": 14,
+      "name": "Md.Ashikur Rahman",
+      "department": "Fisheries",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_14.jpg"
+     },
+     {
+      "SL": 15,
+      "name": "Shah Usama Hasan",
+      "department": "Disaster Science and Climate Resilience",
+      "session": "2018-19",
+      "playingPosition": "CM",
+      "image": "/images/image_15.jpg"
+     },
+     {
+      "SL": 16,
+      "name": "Jahid Hasan Tonmoy",
+      "department": "Physics",
+      "session": "2018-19",
+      "playingPosition": "RB",
+      "image": "/images/image_16.jpg"
+     },
+     {
+      "SL": 17,
+      "name": "Elias Ahammed",
+      "department": "Mathematics",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_17.jpg"
+     },
+     {
+      "SL": 18,
+      "name": "Mostafijur Rahman",
+      "department": "Applied Mathematics",
+      "session": "2019-20",
+      "playingPosition": "LB",
+      "image": "/images/image_18.jpg"
+     },
+     {
+      "SL": 19,
+      "name": "Asif mahmuf",
+      "department": "Biochemistry and Molecular Biology",
+      "session": "2018-19",
+      "playingPosition": "LB",
+      "image": "/images/image_19.jpg"
+     },
+     {
+      "SL": 20,
+      "name": "MD Ruhul Amin",
+      "department": "Applied chemistry and chemical engineering",
+      "session": "2018-19",
+      "playingPosition": "RB",
+      "image": "/images/image_20.jpg"
+     },
+     {
+      "SL": 21,
+      "name": "Md Shakil Hossain",
+      "department": "Statistics",
+      "session": "2019-20",
+      "playingPosition": "LW",
+      "image": "/images/image_21.jpg"
+     },
+     {
+      "SL": 22,
+      "name": "Mathin",
+      "department": "Fisheries",
+      "session": "2018-19",
+      "playingPosition": "RB",
+      "image": "/images/image_22.jpg"
+     },
+     {
+      "SL": 23,
+      "name": "Hasib Abdullah Sarker",
+      "department": "IIT",
+      "session": "2019-20",
+      "playingPosition": "RW",
+      "image": "/images/image_23.jpg"
+     },
+     {
+      "SL": 24,
+      "name": "Bayazid Ahmed",
+      "department": "Zoology",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_24.jpg"
+     },
+     {
+      "SL": 25,
+      "name": "Md.Muhit Hossain Susom",
+      "department": "Applied Mathematics",
+      "session": "2020-21",
+      "playingPosition": "RB",
+      "image": "/images/image_25.jpg"
+     },
+     {
+      "SL": 26,
+      "name": "Md. Abul Kalam Azad",
+      "department": "IIT",
+      "session": "2021-22",
+      "playingPosition": "RB",
+      "image": "/images/image_26.jpg"
+     },
+     {
+      "SL": 27,
+      "name": "Jakaria Ibn Harun",
+      "department": "Soil, Water, and Environment",
+      "session": "2019-20",
+      "playingPosition": "RB",
+      "image": "/images/image_27.jpg"
+     },
+     {
+      "SL": 28,
+      "name": "Jinnatul islam Leon",
+      "department": "ISRT",
+      "session": "2022-23",
+      "playingPosition": "LW",
+      "image": "/images/image_28.jpg"
+     },
+     {
+      "SL": 29,
+      "name": "Syed Israfil Hossen",
+      "department": "Applied Mathematics",
+      "session": "2022-23",
+      "playingPosition": "LW",
+      "image": "/images/image_29.jpg"
+     },
+     {
+      "SL": 30,
+      "name": "Arman Aziz",
+      "department": "ISRT",
+      "session": "2021-22",
+      "playingPosition": "RB",
+      "image": "/images/image_30.jpg"
+     },
+     {
+      "SL": 31,
+      "name": "Md.Kamrul Hasan",
+      "department": "Mathematics",
+      "session": "2017-18",
+      "playingPosition": "LW",
+      "image": "/images/image_31.jpg"
+     },
+     {
+      "SL": 32,
+      "name": "Pavel Mahmud",
+      "department": "Applied chemistry and chemical engineering",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_32.jpg"
+     },
+     {
+      "SL": 33,
+      "name": "Md. Nayeem Islam",
+      "department": "Statistics",
+      "session": "2022-23",
+      "playingPosition": "LW",
+      "image": "/images/image_33.jpg"
+     },
+     {
+      "SL": 34,
+      "name": "TOUHID",
+      "department": "Nuclear Engineering",
+      "session": "2020-21",
+      "playingPosition": "LB",
+      "image": "/images/image_34.jpg"
+     },
+     {
+      "SL": 35,
+      "name": "Tawsif Irfan",
+      "department": "Genetic Engineering and Biotechnology",
+      "session": "2022-23",
+      "playingPosition": "RB",
+      "image": "/images/image_35.jpg"
+     },
+     {
+      "SL": 36,
+      "name": "Sohel Rana",
+      "department": "Geology",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_36.jpg"
+     },
+     {
+      "SL": 37,
+      "name": "Babul mia",
+      "department": "Genetic Engineering and Biotechnology",
+      "session": "2022-23",
+      "playingPosition": "RW",
+      "image": "/images/image_37.jpg"
+     },
+     {
+      "SL": 38,
+      "name": "Md Julfikar Ali Shakil",
+      "department": "Disaster Science and Climate Resilience",
+      "session": "2018-19",
+      "playingPosition": "RB",
+      "image": "/images/image_38.jpg"
+     },
+     {
+      "SL": 39,
+      "name": "Tusher Imran",
+      "department": "Statistics",
+      "session": "2021-22",
+      "playingPosition": "LW",
+      "image": "/images/image_39.jpg"
+     },
+     {
+      "SL": 40,
+      "name": "Riyad",
+      "department": "Mathematics",
+      "session": "2017-18",
+      "playingPosition": "RB",
+      "image": "/images/image_40.jpg"
+     },
+     {
+      "SL": 41,
+      "name": "Sakhaouth Hossan (Noman)",
+      "department": "CSE",
+      "session": "2018-19",
+      "playingPosition": "CF",
+      "image": "/images/image_41.jpg"
+     },
+     {
+      "SL": 42,
+      "name": "Atiquzzaman imran",
+      "department": "Statistics",
+      "session": "2022-23",
+      "playingPosition": "GK",
+      "image": "/images/image_42.jpg"
+     },
+     {
+      "SL": 43,
+      "name": "Sohel Rana Akash",
+      "department": "Fisheries",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_43.jpg"
+     },
+     {
+      "SL": 44,
+      "name": "Ibrahim Khalil",
+      "department": "Nuclear Engineering",
+      "session": "2020-21",
+      "playingPosition": "CF",
+      "image": "/images/image_44.jpg"
+     },
+     {
+      "SL": 45,
+      "name": "Habibur Rahman Mahin",
+      "department": "IIT",
+      "session": "2021-22",
+      "playingPosition": "CF",
+      "image": "/images/image_45.jpg"
+     },
+     {
+      "SL": 46,
+      "name": "Md Nowsad Hossen Munna",
+      "department": "IIT",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_46.jpg"
+     },
+     {
+      "SL": 47,
+      "name": "Saimon Bhuiyan",
+      "department": "IIT",
+      "session": "2021-22",
+      "playingPosition": "LB",
+      "image": "/images/image_47.jpg"
+     },
+     {
+      "SL": 48,
+      "name": "Shaed Galib",
+      "department": "IIT",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_48.jpg"
+     },
+     {
+      "SL": 49,
+      "name": "Md. Fozlerabbi Ronie",
+      "department": "Applied Mathematics",
+      "session": "2020-21",
+      "playingPosition": "CM",
+      "image": "/images/image_49.jpg"
+     },
+     {
+      "SL": 50,
+      "name": "Sakibul Alam",
+      "department": "Chemistry",
+      "session": "2017-18",
+      "playingPosition": "RB",
+      "image": "/images/image_50.jpg"
+     },
+     {
+      "SL": 51,
+      "name": "Nazmus Shakib",
+      "department": "IIT",
+      "session": "2021-22",
+      "playingPosition": "RB",
+      "image": "/images/image_51.jpg"
+     },
+     {
+      "SL": 52,
+      "name": "Sahid Rana",
+      "department": "Applied Mathematics",
+      "session": "2019-20",
+      "playingPosition": "CF",
+      "image": "/images/image_52.jpg"
+     },
+     {
+      "SL": 53,
+      "name": "Md. Kibria Hossen Roni",
+      "department": "IIT",
+      "session": "2021-22",
+      "playingPosition": "RB",
+      "image": "/images/image_53.jpg"
+     },
+     {
+      "SL": 54,
+      "name": "N.M. Shykot",
+      "department": "Mathematics",
+      "session": "2020-21",
+      "playingPosition": "RB",
+      "image": "/images/image_54.jpg"
+     },
+     {
+      "SL": 55,
+      "name": "Amlan Raad",
+      "department": "Statistics",
+      "session": "2020-21",
+      "playingPosition": "CM",
+      "image": "/images/image_55.jpg"
+     },
+     {
+      "SL": 56,
+      "name": "Md.Atikur Rahman",
+      "department": "Zoology",
+      "session": "2019-20",
+      "playingPosition": "LW",
+      "image": "/images/image_56.jpg"
+     },
+     {
+      "SL": 57,
+      "name": "Kazi Shahed",
+      "department": "Disaster Science and Climate Resilience",
+      "session": "2020-21",
+      "playingPosition": "RW",
+      "image": "/images/image_57.jpg"
+     },
+     {
+      "SL": 58,
+      "name": "SIFAT",
+      "department": "Soil, Water, and Environment",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_58.jpg"
+     },
+     {
+      "SL": 59,
+      "name": "Raihan chowdhury",
+      "department": "Soil, Water, and Environment",
+      "session": "2018-19",
+      "playingPosition": "CM",
+      "image": "/images/image_59.jpg"
+     },
+     {
+      "SL": 60,
+      "name": "Md. Enamul Sardar",
+      "department": "Nuclear Engineering",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_60.jpg"
+     },
+     {
+      "SL": 61,
+      "name": "Rakib shikder",
+      "department": "Oceanography",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_61.jpg"
+     },
+     {
+      "SL": 62,
+      "name": "Rakibul Hasan Shanto",
+      "department": "Pharmacy",
+      "session": "2016-17",
+      "playingPosition": "LB",
+      "image": "/images/image_62.jpg"
+     },
+     {
+      "SL": 63,
+      "name": "Md. Ahad Min Lihad",
+      "department": "Mathematics",
+      "session": "2018-19",
+      "playingPosition": "CM",
+      "image": "/images/image_63.jpg"
+     },
+     {
+      "SL": 64,
+      "name": "MD MISHKAT",
+      "department": "Applied Mathematics",
+      "session": "2018-19",
+      "playingPosition": "CM",
+      "image": "/images/image_64.jpg"
+     },
+     {
+      "SL": 65,
+      "name": "Md Sohel Rana",
+      "department": "Disaster Science and Climate Resilience",
+      "session": "2021-22",
+      "playingPosition": "CF",
+      "image": "/images/image_65.jpg"
+     },
+     {
+      "SL": 66,
+      "name": "MD.MERAJUL ISLAM",
+      "department": "IIT",
+      "session": "2022-23",
+      "playingPosition": "LB",
+      "image": "/images/image_66.jpg"
+     },
+     {
+      "SL": 67,
+      "name": "Mohammad Amir",
+      "department": "Psychology",
+      "session": "2022-23",
+      "playingPosition": "CF",
+      "image": "/images/image_67.jpg"
+     },
+     {
+      "SL": 68,
+      "name": "Fardeen Hasan",
+      "department": "Nuclear Engineering",
+      "session": "2021-22",
+      "playingPosition": "GK",
+      "image": "/images/image_68.jpg"
+     },
+     {
+      "SL": 69,
+      "name": "Shupto",
+      "department": "Geography and Environment",
+      "session": "2018-19",
+      "playingPosition": "CF",
+      "image": "/images/image_69.jpg"
+     },
+     {
+      "SL": 70,
+      "name": "Hasib Muktadir",
+      "department": "Botany",
+      "session": "2018-19",
+      "playingPosition": "GK",
+      "image": "/images/image_70.jpg"
+     },
+     {
+      "SL": 71,
+      "name": "Shahparan Islam Shawon",
+      "department": "Pharmacy",
+      "session": "2017-18",
+      "playingPosition": "LW",
+      "image": "/images/image_71.jpg"
+     },
+     {
+      "SL": 72,
+      "name": "Habib Hasan",
+      "department": "Zoology",
+      "session": "2018-19",
+      "playingPosition": "CM",
+      "image": "/images/image_72.jpg"
+     },
+     {
+      "SL": 73,
+      "name": "Md. Monirul Islam (Noyon)",
+      "department": "Soil, Water, and Environment",
+      "session": "2021-22",
+      "playingPosition": "LW",
+      "image": "/images/image_73.jpg"
+     },
+     {
+      "SL": 74,
+      "name": "Ashik Mahmud",
+      "department": "Robotics",
+      "session": "2018-19",
+      "playingPosition": "LW",
+      "image": "/images/image_74.jpg"
+     },
+     {
+      "SL": 75,
+      "name": "Riyadus Salehin",
+      "department": "Statistics",
+      "session": "2022-23",
+      "playingPosition": "CM",
+      "image": "/images/image_75.jpg"
+     },
+     {
+      "SL": 76,
+      "name": "Md. Masud Rana",
+      "department": "Statistics",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_76.jpg"
+     },
+     {
+      "SL": 77,
+      "name": "Foysal Chisti",
+      "department": "Chemistry",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_77.jpg"
+     },
+     {
+      "SL": 78,
+      "name": "Sakib Ahmad",
+      "department": "CSE",
+      "session": "2018-19",
+      "playingPosition": "RB",
+      "image": "/images/image_78.jpg"
+     },
+     {
+      "SL": 79,
+      "name": "Tamim Mahamud",
+      "department": "Mathematics",
+      "session": "2022-23",
+      "playingPosition": "CM",
+      "image": "/images/image_79.jpg"
+     },
+     {
+      "SL": 80,
+      "name": "Md. Nur Nabu",
+      "department": "Disaster Science and Climate Resilience",
+      "session": "2018-19",
+      "playingPosition": "RB",
+      "image": "/images/image_80.jpg"
+     },
+     {
+      "SL": 81,
+      "name": "Md.Biplob Hasan",
+      "department": "Oceanography",
+      "session": "2016-17",
+      "playingPosition": "CM",
+      "image": "/images/image_81.jpg"
+     },
+     {
+      "SL": 82,
+      "name": "Tareq Rahman",
+      "department": "ISRT",
+      "session": "2018-19",
+      "playingPosition": "CM",
+      "image": "/images/image_82.jpg"
+     },
+     {
+      "SL": 83,
+      "name": "Kazi Mostafijur Rahman (Sunam)",
+      "department": "Zoology",
+      "session": "2016-17",
+      "playingPosition": "CM",
+      "image": "/images/image_83.jpg"
+     },
+     {
+      "SL": 84,
+      "name": "Al Emran",
+      "department": "Botany",
+      "session": "2020-21",
+      "playingPosition": "CM",
+      "image": "/images/image_84.jpg"
+     },
+     {
+      "SL": 85,
+      "name": "Rashedul Islam",
+      "department": "Statistics",
+      "session": "2018-19",
+      "playingPosition": "CM",
+      "image": "/images/image_85.jpg"
+     },
+     {
+      "SL": 86,
+      "name": "Ammar Pathan",
+      "department": "Pharmacy",
+      "session": "2020-21",
+      "playingPosition": "CM",
+      "image": "/images/image_86.jpg"
+     },
+     {
+      "SL": 87,
+      "name": "Farhan",
+      "department": "Geology",
+      "session": "2022-23",
+      "playingPosition": "LB",
+      "image": "/images/image_87.jpg"
+     },
+     {
+      "SL": 88,
+      "name": "Azizul Mostafa",
+      "department": "Robotics",
+      "session": "2020-21",
+      "playingPosition": "LW",
+      "image": "/images/image_88.jpg"
+     },
+     {
+      "SL": 89,
+      "name": "A.S.M. Shium-Ud-Daulah",
+      "department": "Pharmacy",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_89.jpg"
+     },
+     {
+      "SL": 90,
+      "name": "Mehedi Hasan",
+      "department": "Soil, Water, and Environment",
+      "session": "2021-22",
+      "playingPosition": "RW",
+      "image": "/images/image_90.jpg"
+     },
+     {
+      "SL": 91,
+      "name": "Shakirul Bhuiyan",
+      "department": "Applied chemistry and chemical engineering",
+      "session": "2020-21",
+      "playingPosition": "RW",
+      "image": "/images/image_91.jpg"
+     },
+     {
+      "SL": 92,
+      "name": "Abu Saem",
+      "department": "Biochemistry and Molecular Biology",
+      "session": "2020-21",
+      "playingPosition": "RW",
+      "image": "/images/image_92.jpg"
+     },
+     {
+      "SL": 93,
+      "name": "Md. ARIFUL ISTIAK",
+      "department": "Biochemistry and Molecular Biology",
+      "session": "2022-23",
+      "playingPosition": "RB",
+      "image": "/images/image_93.jpg"
+     },
+     {
+      "SL": 94,
+      "name": "Md Akash Mia",
+      "department": "Physics",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_94.jpg"
+     },
+     {
+      "SL": 95,
+      "name": "Habibur Rahman",
+      "department": "Mathematics",
+      "session": "2019-20",
+      "playingPosition": "RB",
+      "image": "/images/image_95.jpg"
+     },
+     {
+      "SL": 96,
+      "name": "Mehedi Muhit",
+      "department": "Mathematics",
+      "session": "2020-21",
+      "playingPosition": "CF",
+      "image": "/images/image_96.jpg"
+     },
+     {
+      "SL": 97,
+      "name": "Arafat Tajwar",
+      "department": "Physics",
+      "session": "2020-21",
+      "playingPosition": "CM",
+      "image": "/images/image_97.jpg"
+     },
+     {
+      "SL": 98,
+      "name": "Mehadi Hasan Meraz",
+      "department": "Physics",
+      "session": "2020-21",
+      "playingPosition": "CM",
+      "image": "/images/image_98.jpg"
+     },
+     {
+      "SL": 99,
+      "name": "Nafis Fuad Chowdhury",
+      "department": "Biochemistry and Molecular Biology",
+      "session": "2022-23",
+      "playingPosition": "RB",
+      "image": "/images/image_99.jpg"
+     },
+     {
+      "SL": 100,
+      "name": "Md .Nur Nabi",
+      "department": "Physics",
+      "session": "2022-23",
+      "playingPosition": "LW",
+      "image": "/images/image_100.jpg"
+     },
+     {
+      "SL": 101,
+      "name": "Mahin",
+      "department": "Geology",
+      "session": "2021-22",
+      "playingPosition": "GK",
+      "image": "/images/image_101.jpg"
+     },
+     {
+      "SL": 102,
+      "name": "Rohan Rifat",
+      "department": "IIT",
+      "session": "2022-23",
+      "playingPosition": "CF",
+      "image": "/images/image_102.jpg"
+     },
+     {
+      "SL": 103,
+      "name": "Md Sakib Al Helal",
+      "department": "Mathematics",
+      "session": "2020-21",
+      "playingPosition": "RB",
+      "image": "/images/image_103.jpg"
+     },
+     {
+      "SL": 104,
+      "name": "Amit Hasan",
+      "department": "Geology",
+      "session": "2021-22",
+      "playingPosition": "LB",
+      "image": "/images/image_104.jpg"
+     },
+     {
+      "SL": 105,
+      "name": "Mehedi Hasan Apon",
+      "department": "Pharmacy",
+      "session": "2020-21",
+      "playingPosition": "CF",
+      "image": "/images/image_105.jpg"
+     },
+     {
+      "SL": 106,
+      "name": "Mostakim Fuad",
+      "department": "Oceanography",
+      "session": "2023-24",
+      "playingPosition": "CM",
+      "image": "/images/image_106.jpg"
+     },
+     {
+      "SL": 107,
+      "name": "MD Kamruzzaman konok",
+      "department": "Nutrition and food science",
+      "session": "2022-23",
+      "playingPosition": "CM",
+      "image": "/images/image_107.jpg"
+     },
+     {
+      "SL": 108,
+      "name": "Md.Motahar Hossain",
+      "department": "Zoology",
+      "session": "2022-23",
+      "playingPosition": "CM",
+      "image": "/images/image_108.jpg"
+     },
+     {
+      "SL": 109,
+      "name": "Md. Rayhan",
+      "department": "Mathematics",
+      "session": "2018-19",
+      "playingPosition": "GK",
+      "image": "/images/image_109.jpg"
+     },
+     {
+      "SL": 110,
+      "name": "Md Rifat Jr",
+      "department": "Statistics",
+      "session": "2020-21",
+      "playingPosition": "RB",
+      "image": "/images/image_110.jpg"
+     },
+     {
+      "SL": 111,
+      "name": "Nafis Fuad Pritom",
+      "department": "ISRT",
+      "session": "2020-21",
+      "playingPosition": "RB",
+      "image": "/images/image_111.jpg"
+     },
+     {
+      "SL": 112,
+      "name": "Saiful Islam",
+      "department": "Mathematics",
+      "session": "2022-23",
+      "playingPosition": "CM",
+      "image": "/images/image_112.jpg"
+     },
+     {
+      "SL": 113,
+      "name": "Md.Musa Sheikh",
+      "department": "Zoology",
+      "session": "2021-22",
+      "playingPosition": "LW",
+      "image": "/images/image_113.jpg"
+     },
+     {
+      "SL": 114,
+      "name": "Shimon",
+      "department": "Mathematics",
+      "session": "2017-18",
+      "playingPosition": "RB",
+      "image": "/images/image_114.jpg"
+     },
+     {
+      "SL": 115,
+      "name": "sefat khan",
+      "department": "zoology",
+      "session": "2022-23",
+      "playingPosition": "GK",
+      "image": "/images/image_115.jpg"
+     },
+     {
+      "SL": 116,
+      "name": "Shakhawat Hossen Bablu",
+      "department": "Applied Mathematics",
+      "session": "2018-19",
+      "playingPosition": "CM",
+      "image": "/images/image_116.jpg"
+     },
+     {
+      "SL": 117,
+      "name": "Rangon",
+      "department": "Soil, Water, and Environment",
+      "session": "2017-18",
+      "playingPosition": "LW",
+      "image": "/images/image_117.jpg"
+     },
+     {
+      "SL": 118,
+      "name": "Ahsan Habib",
+      "department": "Mathematics",
+      "session": "2019-20",
+      "playingPosition": "GK",
+      "image": "/images/image_118.jpg"
+     },
+     {
+      "SL": 119,
+      "name": "Shojon Miah",
+      "department": "EEE",
+      "session": "2020-21",
+      "playingPosition": "CM",
+      "image": "/images/image_119.jpg"
+     },
+     {
+      "SL": 120,
+      "name": "Amjad ali sifat",
+      "department": "Chemistry",
+      "session": "2021-22",
+      "playingPosition": "LB",
+      "image": "/images/image_120.jpg"
+     },
+     {
+      "SL": 121,
+      "name": "Redwan Ahmed Jim",
+      "department": "Geology",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_121.jpg"
+     },
+     {
+      "SL": 122,
+      "name": "Kazi Nakib Afjal",
+      "department": "Statistics",
+      "session": "2020-21",
+      "playingPosition": "LB",
+      "image": "/images/image_122.jpg"
+     },
+     {
+      "SL": 123,
+      "name": "Hasibur Rahman",
+      "department": "Botany",
+      "session": "2017-18",
+      "playingPosition": "CM",
+      "image": "/images/image_123.jpg"
+     },
+     {
+      "SL": 124,
+      "name": "Abrar E Alam Ador",
+      "department": "Biochemistry and Molecular Biology",
+      "session": "2022-23",
+      "playingPosition": "GK",
+      "image": "/images/image_124.jpg"
+     },
+     {
+      "SL": 125,
+      "name": "Md. Emon Hossain",
+      "department": "Mathematics",
+      "session": "2020-21",
+      "playingPosition": "RW",
+      "image": "/images/image_125.jpg"
+     },
+     {
+      "SL": 126,
+      "name": "Ruhul Amin",
+      "department": "Applied chemistry and chemical engineering",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_126.jpg"
+     },
+     {
+      "SL": 127,
+      "name": "Md Atik Musaddik Zihad",
+      "department": "Genetic Engineering and Biotechnology",
+      "session": "2021-22",
+      "playingPosition": "LB",
+      "image": "/images/image_127.jpg"
+     },
+     {
+      "SL": 128,
+      "name": "Md. Mahid Hasan",
+      "department": "Applied chemistry and chemical engineering",
+      "session": "2021-22",
+      "playingPosition": "LW",
+      "image": "/images/image_128.jpg"
+     },
+     {
+      "SL": 129,
+      "name": "ASLAM",
+      "department": "ZOOLOGY",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_129.jpg"
+     },
+     {
+      "SL": 130,
+      "name": "Hasib",
+      "department": "Pharmacy",
+      "session": "2020-21",
+      "playingPosition": "CM",
+      "image": "/images/image_130.jpg"
+     },
+     {
+      "SL": 131,
+      "name": "Rasel Haque",
+      "department": "Geography and Environment",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_131.jpg"
+     },
+     {
+      "SL": 132,
+      "name": "Sultan Pramanik",
+      "department": "Applied Mathematics",
+      "session": "2019-20",
+      "playingPosition": "RB",
+      "image": "/images/image_132.jpg"
+     },
+     {
+      "SL": 133,
+      "name": "MD Anamul Haque",
+      "department": "Botany",
+      "session": "2020-21",
+      "playingPosition": "RB",
+      "image": "/images/image_133.jpg"
+     },
+     {
+      "SL": 134,
+      "name": "Md Rasel Rana",
+      "department": "Geology",
+      "session": "2019-20",
+      "playingPosition": "LW",
+      "image": "/images/image_134.jpg"
+     },
+     {
+      "SL": 135,
+      "name": "Abu Sayeed Nayeem",
+      "department": "EEE",
+      "session": "2020-21",
+      "playingPosition": "CM",
+      "image": "/images/image_135.jpg"
+     },
+     {
+      "SL": 136,
+      "name": "Raihan Chowdhury",
+      "department": "Soil, Water, and Environment",
+      "session": "2018-19",
+      "playingPosition": "CM",
+      "image": "/images/image_136.jpg"
+     },
+     {
+      "SL": 137,
+      "name": "Md. Rayhan",
+      "department": "Mathematics",
+      "session": "2017-18",
+      "playingPosition": "GK",
+      "image": "/images/image_137.jpg"
+     },
+     {
+      "SL": 138,
+      "name": "Tanvir Tahan",
+      "department": "ISRT",
+      "session": "2017-18",
+      "playingPosition": "CM",
+      "image": "/images/image_138.jpg"
+     },
+     {
+      "SL": 139,
+      "name": "Bandhan",
+      "department": "Mathematics",
+      "session": "2017-18",
+      "playingPosition": "CM",
+      "image": "/images/image_139.jpg"
+     },
+     {
+      "SL": 140,
+      "name": "Tofsir",
+      "department": "Zoology",
+      "session": "2019-20",
+      "playingPosition": "GK",
+      "image": "/images/image_140.jpg"
+     },
+     {
+      "SL": 141,
+      "name": "Tofsir",
+      "department": "Zoology",
+      "session": "2019-20",
+      "playingPosition": "GK",
+      "image": "/images/image_141.jpg"
+     },
+     {
+      "SL": 142,
+      "name": "Shohag",
+      "department": "Mathematics",
+      "session": "2018-19",
+      "playingPosition": "LW",
+      "image": "/images/image_142.jpg"
+     },
+     {
+      "SL": 143,
+      "name": "Ikramuzzaman Bayezid",
+      "department": "Botany",
+      "session": "2021-22",
+      "playingPosition": "LW",
+      "image": "/images/image_143.jpg"
+     },
+     {
+      "SL": 144,
+      "name": "Rakib Rony",
+      "department": "Applied chemistry and chemical engineering",
+      "session": "2020-21",
+      "playingPosition": "LW",
+      "image": "/images/image_144.jpg"
+     },
+     {
+      "SL": 145,
+      "name": "Md Foysal Hossen",
+      "department": "Geography and Environment",
+      "session": "2020-21",
+      "playingPosition": "LB",
+      "image": "/images/image_145.jpg"
+     },
+     {
+      "SL": 146,
+      "name": "K.M. Shafin",
+      "department": "Botany",
+      "session": "2017-18",
+      "playingPosition": "LB",
+      "image": "/images/image_146.jpg"
+     },
+     {
+      "SL": 147,
+      "name": "Fahad",
+      "department": "Botany",
+      "session": "2020-21",
+      "playingPosition": "CM",
+      "image": "/images/image_147.jpg"
+     },
+     {
+      "SL": 148,
+      "name": "Masfik",
+      "department": "Statistics",
+      "session": "2022-23",
+      "playingPosition": "GK",
+      "image": "/images/image_148.jpg"
+     },
+     {
+      "SL": 149,
+      "name": "Rifayet",
+      "department": "Pharmacy",
+      "session": "2019-20",
+      "playingPosition": "RW",
+      "image": "/images/image_149.jpg"
+     },
+     {
+      "SL": 150,
+      "name": "Rifat-Bin-Azad",
+      "department": "Zoology",
+      "session": "2017-18",
+      "playingPosition": "LB",
+      "image": "/images/image_150.jpg"
+     },
+     {
+      "SL": 151,
+      "name": "Asif Raihan",
+      "department": "Chemistry",
+      "session": "2018-19",
+      "playingPosition": "LB",
+      "image": "/images/image_151.jpg"
+     },
+     {
+      "SL": 152,
+      "name": "MOHOSIN",
+      "department": "Soil, Water, and Environment",
+      "session": "2021-22",
+      "playingPosition": "RB",
+      "image": "/images/image_152.jpg"
+     },
+     {
+      "SL": 153,
+      "name": "Md Ibrahim",
+      "department": "Biochemistry and Molecular Biology",
+      "session": "2021-22",
+      "playingPosition": "RB",
+      "image": "/images/image_153.jpg"
+     },
+     {
+      "SL": 154,
+      "name": "MUHAIMIN RASHIN",
+      "department": "Disaster Science and Climate Resilience",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_154.jpg"
+     },
+     {
+      "SL": 155,
+      "name": "Tanjin Sourav",
+      "department": "Botany",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_155.jpg"
+     },
+     {
+      "SL": 156,
+      "name": "SAIF",
+      "department": "Pharmacy",
+      "session": "2022-23",
+      "playingPosition": "LW",
+      "image": "/images/image_156.jpg"
+     },
+     {
+      "SL": 157,
+      "name": "Md. Iram Bin Mahbub",
+      "department": "Applied Mathematics",
+      "session": "2020-21",
+      "playingPosition": "RB",
+      "image": "/images/image_157.jpg"
+     },
+     {
+      "SL": 158,
+      "name": "Sakib Sadman",
+      "department": "Soil, Water, and Environment",
+      "session": "2019-20",
+      "playingPosition": "CM",
+      "image": "/images/image_158.jpg"
+     },
+     {
+      "SL": 159,
+      "name": "Abdullah",
+      "department": "Applied Mathematics",
+      "session": "2020-21",
+      "playingPosition": "GK",
+      "image": "/images/image_159.jpg"
+     },
+     {
+      "SL": 160,
+      "name": "Nur Mohammad",
+      "department": "Mathematics",
+      "session": "2020-21",
+      "playingPosition": "RB",
+      "image": "/images/image_160.jpg"
+     },
+     {
+      "SL": 161,
+      "name": "Ajijul Haque Tonmoy",
+      "department": "Microbiology",
+      "session": "2020-21",
+      "playingPosition": "GK",
+      "image": "/images/image_161.jpg"
+     },
+     {
+      "SL": 162,
+      "name": "Mashrafi Yeabin Sajib",
+      "department": "Oceanography",
+      "session": "2021-22",
+      "playingPosition": "CM",
+      "image": "/images/image_162.jpg"
+     },
+     {
+      "SL": 163,
+      "name": "Arfin",
+      "department": "Applied Mathematics",
+      "session": "2020-21",
+      "playingPosition": "RB",
+      "image": "/images/image_163.jpg"
+     },
+     {
+      "SL": 164,
+      "name": "Km Sami",
+      "department": "Mathematics",
+      "session": "2021-22",
+      "playingPosition": "RB",
+      "image": "/images/image_164.jpg"
+     },
+     {
+      "SL": 165,
+      "name": "Shohag Hossain",
+      "department": "Geology",
+      "session": "2021-22",
+      "playingPosition": "RW",
+      "image": "/images/image_165.jpg"
+     }
+    ]
+    }
