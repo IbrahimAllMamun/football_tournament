@@ -1,1324 +1,1694 @@
 {
-    "players":[
-     {
+  "players": [
+    {
       "SL": 1,
       "name": "Md Shahariar Hossain Shakib",
       "department": "Zoology",
       "session": "2021-22",
+      "Playing Position": "Central defensive midfielder",
       "playingPosition": "CDM",
-      "image": "/images/image_1.jpg"
-     },
-     {
+      "image": "/images/image_1.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 2,
       "name": "A K M Sumon",
       "department": "Chemistry",
       "session": "2022-23",
+      "Playing Position": "Winger",
       "playingPosition": "LW",
-      "image": "/images/image_2.jpg"
-     },
-     {
+      "image": "/images/image_2.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 3,
       "name": "Srabon Islam Shovo",
       "department": "Pharmacy",
       "session": "2022-23",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_3.jpg"
-     },
-     {
+      "image": "/images/image_3.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 4,
       "name": "Tauhidull Islam",
       "department": "Pharmacy",
       "session": "2022-23",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_4.jpg"
-     },
-     {
+      "image": "/images/image_4.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 5,
-      "name": "Sefat khan",
-      "department": "zoology",
-      "session": "2022-23",
-      "playingPosition": "GK",
-      "image": "/images/image_5.jpg"
-     },
-     {
+      "name": "Hasibul Hasan Shanto",
+      "department": "Physics",
+      "session": "2020-21",
+      "Playing Position": "Right back",
+      "playingPosition": "RB",
+      "image": "/images/image_5.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 6,
       "name": "MD.RATAN ALI",
-      "department": "Soil, Water, and Environment",
+      "department": "SWE",
       "session": "2022-23",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_6.jpg"
-     },
-     {
+      "image": "/images/image_6.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 7,
       "name": "Md.Noman Bin Sabid shawn",
       "department": "Pharmacy",
       "session": "2022-23",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_7.jpg"
-     },
-     {
+      "image": "/images/image_7.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 8,
       "name": "Nazrul Islam",
       "department": "Statistics",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_8.jpg"
-     },
-     {
+      "image": "/images/image_8.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 9,
       "name": "Rishat",
       "department": "Pharmacy",
       "session": "2021-22",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_9.jpg"
-     },
-     {
+      "image": "/images/image_9.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 10,
-      "name": "Tusher Imran",
-      "department": "Statistics",
+      "name": "Md Rashed Khan",
+      "department": "Physics",
       "session": "2021-22",
-      "playingPosition": "LW",
-      "image": "/images/image_10.jpg"
-     },
-     {
+      "Playing Position": "Midfielder",
+      "playingPosition": "CM",
+      "image": "/images/image_10.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 11,
       "name": "Mosiur Rahman Tanim",
-      "department": "Soil, Water, and Environment",
+      "department": "SWE",
       "session": "2019-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_11.jpg"
-     },
-     {
+      "image": "/images/image_11.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 12,
       "name": "Taifur",
       "department": "Mathematics",
       "session": "2022-23",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_12.jpg"
-     },
-     {
+      "image": "/images/image_12.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 13,
       "name": "Hasnat Ahmmed",
       "department": "Mathematics",
       "session": "2017-18",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_13.jpg"
-     },
-     {
+      "image": "/images/image_13.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 14,
       "name": "Md.Ashikur Rahman",
       "department": "Fisheries",
       "session": "2019-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_14.jpg"
-     },
-     {
+      "image": "/images/image_14.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 15,
       "name": "Shah Usama Hasan",
-      "department": "Disaster Science and Climate Resilience",
+      "department": "DSCR",
       "session": "2018-19",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_15.jpg"
-     },
-     {
+      "image": "/images/image_15.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 16,
       "name": "Jahid Hasan Tonmoy",
       "department": "Physics",
       "session": "2018-19",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_16.jpg"
-     },
-     {
+      "image": "/images/image_16.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 17,
       "name": "Elias Ahammed",
       "department": "Mathematics",
       "session": "2019-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_17.jpg"
-     },
-     {
+      "image": "/images/image_17.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 18,
       "name": "Mostafijur Rahman",
       "department": "Applied Mathematics",
       "session": "2019-20",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_18.jpg"
-     },
-     {
+      "image": "/images/image_18.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 19,
       "name": "Asif mahmuf",
-      "department": "Biochemistry and Molecular Biology",
+      "department": "BMB",
       "session": "2018-19",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_19.jpg"
-     },
-     {
+      "image": "/images/image_19.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 20,
       "name": "MD Ruhul Amin",
-      "department": "Applied chemistry and chemical engineering",
+      "department": "ACCE",
       "session": "2018-19",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_20.jpg"
-     },
-     {
+      "image": "/images/image_20.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 21,
       "name": "Md Shakil Hossain",
       "department": "Statistics",
       "session": "2019-20",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_21.jpg"
-     },
-     {
+      "image": "/images/image_21.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 22,
       "name": "Mathin",
       "department": "Fisheries",
       "session": "2018-19",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_22.jpg"
-     },
-     {
+      "image": "/images/image_22.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 23,
       "name": "Hasib Abdullah Sarker",
       "department": "IIT",
       "session": "2019-20",
+      "Playing Position": "Right wing",
       "playingPosition": "RW",
-      "image": "/images/image_23.jpg"
-     },
-     {
+      "image": "/images/image_23.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 24,
       "name": "Bayazid Ahmed",
       "department": "Zoology",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_24.jpg"
-     },
-     {
+      "image": "/images/image_24.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 25,
       "name": "Md.Muhit Hossain Susom",
       "department": "Applied Mathematics",
       "session": "2020-21",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_25.jpg"
-     },
-     {
+      "image": "/images/image_25.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 26,
       "name": "Md. Abul Kalam Azad",
       "department": "IIT",
       "session": "2021-22",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_26.jpg"
-     },
-     {
+      "image": "/images/image_26.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 27,
       "name": "Jakaria Ibn Harun",
-      "department": "Soil, Water, and Environment",
+      "department": "SWE",
       "session": "2019-20",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_27.jpg"
-     },
-     {
+      "image": "/images/image_27.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 28,
       "name": "Jinnatul islam Leon",
       "department": "ISRT",
       "session": "2022-23",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_28.jpg"
-     },
-     {
+      "image": "/images/image_28.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 29,
       "name": "Syed Israfil Hossen",
       "department": "Applied Mathematics",
       "session": "2022-23",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_29.jpg"
-     },
-     {
+      "image": "/images/image_29.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 30,
       "name": "Arman Aziz",
       "department": "ISRT",
       "session": "2021-22",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_30.jpg"
-     },
-     {
+      "image": "/images/image_30.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 31,
       "name": "Md.Kamrul Hasan",
       "department": "Mathematics",
       "session": "2017-18",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_31.jpg"
-     },
-     {
+      "image": "/images/image_31.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 32,
       "name": "Pavel Mahmud",
-      "department": "Applied chemistry and chemical engineering",
+      "department": "ACCE",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_32.jpg"
-     },
-     {
+      "image": "/images/image_32.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 33,
       "name": "Md. Nayeem Islam",
       "department": "Statistics",
       "session": "2022-23",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_33.jpg"
-     },
-     {
+      "image": "/images/image_33.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 34,
       "name": "TOUHID",
       "department": "Nuclear Engineering",
       "session": "2020-21",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_34.jpg"
-     },
-     {
+      "image": "/images/image_34.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 35,
       "name": "Tawsif Irfan",
-      "department": "Genetic Engineering and Biotechnology",
+      "department": "GEB",
       "session": "2022-23",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_35.jpg"
-     },
-     {
+      "image": "/images/image_35.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 36,
       "name": "Sohel Rana",
       "department": "Geology",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_36.jpg"
-     },
-     {
+      "image": "/images/image_36.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 37,
       "name": "Babul mia",
-      "department": "Genetic Engineering and Biotechnology",
+      "department": "GEB",
       "session": "2022-23",
+      "Playing Position": "Right wing",
       "playingPosition": "RW",
-      "image": "/images/image_37.jpg"
-     },
-     {
+      "image": "/images/image_37.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 38,
       "name": "Md Julfikar Ali Shakil",
-      "department": "Disaster Science and Climate Resilience",
+      "department": "DSCR",
       "session": "2018-19",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_38.jpg"
-     },
-     {
+      "image": "/images/image_38.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 39,
       "name": "Tusher Imran",
       "department": "Statistics",
       "session": "2021-22",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_39.jpg"
-     },
-     {
+      "image": "/images/image_39.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 40,
       "name": "Riyad",
       "department": "Mathematics",
       "session": "2017-18",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_40.jpg"
-     },
-     {
+      "image": "/images/image_40.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 41,
       "name": "Sakhaouth Hossan (Noman)",
       "department": "CSE",
       "session": "2018-19",
+      "Playing Position": "Forward",
       "playingPosition": "CF",
-      "image": "/images/image_41.jpg"
-     },
-     {
+      "image": "/images/image_41.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 42,
       "name": "Atiquzzaman imran",
       "department": "Statistics",
       "session": "2022-23",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_42.jpg"
-     },
-     {
+      "image": "/images/image_42.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 43,
       "name": "Sohel Rana Akash",
       "department": "Fisheries",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_43.jpg"
-     },
-     {
+      "image": "/images/image_43.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 44,
       "name": "Ibrahim Khalil",
       "department": "Nuclear Engineering",
       "session": "2020-21",
+      "Playing Position": "Forward",
       "playingPosition": "CF",
-      "image": "/images/image_44.jpg"
-     },
-     {
+      "image": "/images/image_44.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 45,
       "name": "Habibur Rahman Mahin",
       "department": "IIT",
       "session": "2021-22",
+      "Playing Position": "Forward",
       "playingPosition": "CF",
-      "image": "/images/image_45.jpg"
-     },
-     {
+      "image": "/images/image_45.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 46,
       "name": "Md Nowsad Hossen Munna",
       "department": "IIT",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_46.jpg"
-     },
-     {
+      "image": "/images/image_46.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 47,
       "name": "Saimon Bhuiyan",
       "department": "IIT",
       "session": "2021-22",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_47.jpg"
-     },
-     {
+      "image": "/images/image_47.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 48,
       "name": "Shaed Galib",
       "department": "IIT",
       "session": "2019-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_48.jpg"
-     },
-     {
+      "image": "/images/image_48.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 49,
       "name": "Md. Fozlerabbi Ronie",
       "department": "Applied Mathematics",
       "session": "2020-21",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_49.jpg"
-     },
-     {
+      "image": "/images/image_49.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 50,
       "name": "Sakibul Alam",
       "department": "Chemistry",
       "session": "2017-18",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_50.jpg"
-     },
-     {
+      "image": "/images/image_50.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 51,
       "name": "Nazmus Shakib",
       "department": "IIT",
       "session": "2021-22",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_51.jpg"
-     },
-     {
+      "image": "/images/image_51.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 52,
       "name": "Sahid Rana",
       "department": "Applied Mathematics",
       "session": "2019-20",
+      "Playing Position": "Forward",
       "playingPosition": "CF",
-      "image": "/images/image_52.jpg"
-     },
-     {
+      "image": "/images/image_52.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 53,
       "name": "Md. Kibria Hossen Roni",
       "department": "IIT",
       "session": "2021-22",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_53.jpg"
-     },
-     {
+      "image": "/images/image_53.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 54,
       "name": "N.M. Shykot",
       "department": "Mathematics",
       "session": "2020-21",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_54.jpg"
-     },
-     {
+      "image": "/images/image_54.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 55,
       "name": "Amlan Raad",
       "department": "Statistics",
       "session": "2020-21",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_55.jpg"
-     },
-     {
+      "image": "/images/image_55.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 56,
       "name": "Md.Atikur Rahman",
       "department": "Zoology",
       "session": "2019-20",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_56.jpg"
-     },
-     {
+      "image": "/images/image_56.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 57,
       "name": "Kazi Shahed",
-      "department": "Disaster Science and Climate Resilience",
+      "department": "DSCR",
       "session": "2020-21",
+      "Playing Position": "Right wing",
       "playingPosition": "RW",
-      "image": "/images/image_57.jpg"
-     },
-     {
+      "image": "/images/image_57.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 58,
-      "name": "SIFAT",
-      "department": "Soil, Water, and Environment",
-      "session": "2019-20",
+      "name": "Md. Nazmul Huda Nahid",
+      "department": "Oceanography",
+      "session": "2018-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_58.jpg"
-     },
-     {
+      "image": "/images/image_58.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 59,
-      "name": "Raihan chowdhury",
-      "department": "Soil, Water, and Environment",
-      "session": "2018-19",
-      "playingPosition": "CM",
-      "image": "/images/image_59.jpg"
-     },
-     {
+      "name": "Muenuzzaman Muen",
+      "department": "Zoology",
+      "session": "2019-20",
+      "Playing Position": "Right back",
+      "playingPosition": "RB",
+      "image": "/images/image_59.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 60,
       "name": "Md. Enamul Sardar",
       "department": "Nuclear Engineering",
       "session": "2019-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_60.jpg"
-     },
-     {
+      "image": "/images/image_60.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 61,
       "name": "Rakib shikder",
       "department": "Oceanography",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_61.jpg"
-     },
-     {
+      "image": "/images/image_61.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 62,
       "name": "Rakibul Hasan Shanto",
       "department": "Pharmacy",
       "session": "2016-17",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_62.jpg"
-     },
-     {
+      "image": "/images/image_62.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 63,
       "name": "Md. Ahad Min Lihad",
       "department": "Mathematics",
       "session": "2018-19",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_63.jpg"
-     },
-     {
+      "image": "/images/image_63.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 64,
       "name": "MD MISHKAT",
       "department": "Applied Mathematics",
       "session": "2018-19",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_64.jpg"
-     },
-     {
+      "image": "/images/image_64.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 65,
       "name": "Md Sohel Rana",
-      "department": "Disaster Science and Climate Resilience",
+      "department": "DSCR",
       "session": "2021-22",
+      "Playing Position": "Forward",
       "playingPosition": "CF",
-      "image": "/images/image_65.jpg"
-     },
-     {
+      "image": "/images/image_65.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 66,
       "name": "MD.MERAJUL ISLAM",
       "department": "IIT",
       "session": "2022-23",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_66.jpg"
-     },
-     {
+      "image": "/images/image_66.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 67,
       "name": "Mohammad Amir",
       "department": "Psychology",
       "session": "2022-23",
+      "Playing Position": "Forward",
       "playingPosition": "CF",
-      "image": "/images/image_67.jpg"
-     },
-     {
+      "image": "/images/image_67.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 68,
       "name": "Fardeen Hasan",
       "department": "Nuclear Engineering",
       "session": "2021-22",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_68.jpg"
-     },
-     {
+      "image": "/images/image_68.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 69,
       "name": "Shupto",
       "department": "Geography and Environment",
       "session": "2018-19",
+      "Playing Position": "Forward",
       "playingPosition": "CF",
-      "image": "/images/image_69.jpg"
-     },
-     {
+      "image": "/images/image_69.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 70,
       "name": "Hasib Muktadir",
       "department": "Botany",
       "session": "2018-19",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_70.jpg"
-     },
-     {
+      "image": "/images/image_70.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 71,
       "name": "Shahparan Islam Shawon",
       "department": "Pharmacy",
       "session": "2017-18",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_71.jpg"
-     },
-     {
+      "image": "/images/image_71.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 72,
       "name": "Habib Hasan",
       "department": "Zoology",
       "session": "2018-19",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_72.jpg"
-     },
-     {
+      "image": "/images/image_72.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 73,
       "name": "Md. Monirul Islam (Noyon)",
-      "department": "Soil, Water, and Environment",
+      "department": "SWE",
       "session": "2021-22",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_73.jpg"
-     },
-     {
+      "image": "/images/image_73.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 74,
       "name": "Ashik Mahmud",
       "department": "Robotics",
       "session": "2018-19",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_74.jpg"
-     },
-     {
+      "image": "/images/image_74.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 75,
       "name": "Riyadus Salehin",
       "department": "Statistics",
       "session": "2022-23",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_75.jpg"
-     },
-     {
+      "image": "/images/image_75.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 76,
       "name": "Md. Masud Rana",
       "department": "Statistics",
       "session": "2019-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_76.jpg"
-     },
-     {
+      "image": "/images/image_76.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 77,
       "name": "Foysal Chisti",
       "department": "Chemistry",
       "session": "2019-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_77.jpg"
-     },
-     {
+      "image": "/images/image_77.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 78,
       "name": "Sakib Ahmad",
       "department": "CSE",
       "session": "2018-19",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_78.jpg"
-     },
-     {
+      "image": "/images/image_78.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 79,
       "name": "Tamim Mahamud",
       "department": "Mathematics",
       "session": "2022-23",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_79.jpg"
-     },
-     {
+      "image": "/images/image_79.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 80,
       "name": "Md. Nur Nabu",
-      "department": "Disaster Science and Climate Resilience",
+      "department": "DSCR",
       "session": "2018-19",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_80.jpg"
-     },
-     {
+      "image": "/images/image_80.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 81,
       "name": "Md.Biplob Hasan",
       "department": "Oceanography",
       "session": "2016-17",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_81.jpg"
-     },
-     {
+      "image": "/images/image_81.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 82,
       "name": "Tareq Rahman",
       "department": "ISRT",
       "session": "2018-19",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_82.jpg"
-     },
-     {
+      "image": "/images/image_82.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 83,
       "name": "Kazi Mostafijur Rahman (Sunam)",
       "department": "Zoology",
       "session": "2016-17",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_83.jpg"
-     },
-     {
+      "image": "/images/image_83.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 84,
       "name": "Al Emran",
       "department": "Botany",
       "session": "2020-21",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_84.jpg"
-     },
-     {
+      "image": "/images/image_84.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 85,
       "name": "Rashedul Islam",
       "department": "Statistics",
       "session": "2018-19",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_85.jpg"
-     },
-     {
+      "image": "/images/image_85.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 86,
       "name": "Ammar Pathan",
       "department": "Pharmacy",
       "session": "2020-21",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_86.jpg"
-     },
-     {
+      "image": "/images/image_86.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 87,
       "name": "Farhan",
       "department": "Geology",
       "session": "2022-23",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_87.jpg"
-     },
-     {
+      "image": "/images/image_87.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 88,
       "name": "Azizul Mostafa",
       "department": "Robotics",
       "session": "2020-21",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_88.jpg"
-     },
-     {
+      "image": "/images/image_88.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 89,
       "name": "A.S.M. Shium-Ud-Daulah",
       "department": "Pharmacy",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_89.jpg"
-     },
-     {
+      "image": "/images/image_89.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 90,
       "name": "Mehedi Hasan",
-      "department": "Soil, Water, and Environment",
+      "department": "SWE",
       "session": "2021-22",
+      "Playing Position": "Right wing",
       "playingPosition": "RW",
-      "image": "/images/image_90.jpg"
-     },
-     {
+      "image": "/images/image_90.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 91,
       "name": "Shakirul Bhuiyan",
-      "department": "Applied chemistry and chemical engineering",
+      "department": "ACCE",
       "session": "2020-21",
+      "Playing Position": "Right wing",
       "playingPosition": "RW",
-      "image": "/images/image_91.jpg"
-     },
-     {
+      "image": "/images/image_91.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 92,
       "name": "Abu Saem",
-      "department": "Biochemistry and Molecular Biology",
+      "department": "BMB",
       "session": "2020-21",
+      "Playing Position": "Right wing",
       "playingPosition": "RW",
-      "image": "/images/image_92.jpg"
-     },
-     {
+      "image": "/images/image_92.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 93,
       "name": "Md. ARIFUL ISTIAK",
-      "department": "Biochemistry and Molecular Biology",
+      "department": "BMB",
       "session": "2022-23",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_93.jpg"
-     },
-     {
+      "image": "/images/image_93.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 94,
       "name": "Md Akash Mia",
       "department": "Physics",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_94.jpg"
-     },
-     {
+      "image": "/images/image_94.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 95,
       "name": "Habibur Rahman",
       "department": "Mathematics",
       "session": "2019-20",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_95.jpg"
-     },
-     {
+      "image": "/images/image_95.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 96,
       "name": "Mehedi Muhit",
       "department": "Mathematics",
       "session": "2020-21",
+      "Playing Position": "Forward",
       "playingPosition": "CF",
-      "image": "/images/image_96.jpg"
-     },
-     {
+      "image": "/images/image_96.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 97,
       "name": "Arafat Tajwar",
       "department": "Physics",
       "session": "2020-21",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_97.jpg"
-     },
-     {
+      "image": "/images/image_97.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 98,
       "name": "Mehadi Hasan Meraz",
       "department": "Physics",
       "session": "2020-21",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_98.jpg"
-     },
-     {
+      "image": "/images/image_98.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 99,
       "name": "Nafis Fuad Chowdhury",
-      "department": "Biochemistry and Molecular Biology",
+      "department": "BMB",
       "session": "2022-23",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_99.jpg"
-     },
-     {
+      "image": "/images/image_99.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 100,
       "name": "Md .Nur Nabi",
       "department": "Physics",
       "session": "2022-23",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_100.jpg"
-     },
-     {
+      "image": "/images/image_100.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 101,
       "name": "Mahin",
       "department": "Geology",
       "session": "2021-22",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_101.jpg"
-     },
-     {
+      "image": "/images/image_101.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 102,
       "name": "Rohan Rifat",
       "department": "IIT",
       "session": "2022-23",
+      "Playing Position": "Forward",
       "playingPosition": "CF",
-      "image": "/images/image_102.jpg"
-     },
-     {
+      "image": "/images/image_102.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 103,
       "name": "Md Sakib Al Helal",
       "department": "Mathematics",
       "session": "2020-21",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_103.jpg"
-     },
-     {
+      "image": "/images/image_103.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 104,
       "name": "Amit Hasan",
       "department": "Geology",
       "session": "2021-22",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_104.jpg"
-     },
-     {
+      "image": "/images/image_104.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 105,
       "name": "Mehedi Hasan Apon",
       "department": "Pharmacy",
       "session": "2020-21",
+      "Playing Position": "Forward",
       "playingPosition": "CF",
-      "image": "/images/image_105.jpg"
-     },
-     {
+      "image": "/images/image_105.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 106,
       "name": "Mostakim Fuad",
       "department": "Oceanography",
       "session": "2023-24",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_106.jpg"
-     },
-     {
+      "image": "/images/image_106.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 107,
       "name": "MD Kamruzzaman konok",
-      "department": "Nutrition and food science",
+      "department": "INFS",
       "session": "2022-23",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_107.jpg"
-     },
-     {
+      "image": "/images/image_107.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 108,
       "name": "Md.Motahar Hossain",
       "department": "Zoology",
       "session": "2022-23",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_108.jpg"
-     },
-     {
+      "image": "/images/image_108.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 109,
-      "name": "Md. Rayhan",
-      "department": "Mathematics",
+      "name": "Md Anamul Haque",
+      "department": "SWE",
       "session": "2018-19",
-      "playingPosition": "GK",
-      "image": "/images/image_109.jpg"
-     },
-     {
+      "Playing Position": "Right back",
+      "playingPosition": "RB",
+      "image": "/images/image_109.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 110,
       "name": "Md Rifat Jr",
       "department": "Statistics",
       "session": "2020-21",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_110.jpg"
-     },
-     {
+      "image": "/images/image_110.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 111,
       "name": "Nafis Fuad Pritom",
       "department": "ISRT",
       "session": "2020-21",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_111.jpg"
-     },
-     {
+      "image": "/images/image_111.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 112,
       "name": "Saiful Islam",
       "department": "Mathematics",
       "session": "2022-23",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_112.jpg"
-     },
-     {
+      "image": "/images/image_112.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 113,
       "name": "Md.Musa Sheikh",
       "department": "Zoology",
       "session": "2021-22",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_113.jpg"
-     },
-     {
+      "image": "/images/image_113.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 114,
       "name": "Shimon",
       "department": "Mathematics",
       "session": "2017-18",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_114.jpg"
-     },
-     {
+      "image": "/images/image_114.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 115,
       "name": "sefat khan",
       "department": "zoology",
       "session": "2022-23",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_115.jpg"
-     },
-     {
+      "image": "/images/image_115.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 116,
       "name": "Shakhawat Hossen Bablu",
       "department": "Applied Mathematics",
       "session": "2018-19",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_116.jpg"
-     },
-     {
+      "image": "/images/image_116.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 117,
       "name": "Rangon",
-      "department": "Soil, Water, and Environment",
+      "department": "SWE",
       "session": "2017-18",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_117.jpg"
-     },
-     {
+      "image": "/images/image_117.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 118,
       "name": "Ahsan Habib",
       "department": "Mathematics",
       "session": "2019-20",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_118.jpg"
-     },
-     {
+      "image": "/images/image_118.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 119,
       "name": "Shojon Miah",
       "department": "EEE",
       "session": "2020-21",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_119.jpg"
-     },
-     {
+      "image": "/images/image_119.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 120,
       "name": "Amjad ali sifat",
       "department": "Chemistry",
       "session": "2021-22",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_120.jpg"
-     },
-     {
+      "image": "/images/image_120.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 121,
       "name": "Redwan Ahmed Jim",
       "department": "Geology",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_121.jpg"
-     },
-     {
+      "image": "/images/image_121.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 122,
       "name": "Kazi Nakib Afjal",
       "department": "Statistics",
       "session": "2020-21",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_122.jpg"
-     },
-     {
+      "image": "/images/image_122.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 123,
       "name": "Hasibur Rahman",
       "department": "Botany",
       "session": "2017-18",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_123.jpg"
-     },
-     {
+      "image": "/images/image_123.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 124,
       "name": "Abrar E Alam Ador",
-      "department": "Biochemistry and Molecular Biology",
+      "department": "BMB",
       "session": "2022-23",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_124.jpg"
-     },
-     {
+      "image": "/images/image_124.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 125,
       "name": "Md. Emon Hossain",
       "department": "Mathematics",
       "session": "2020-21",
+      "Playing Position": "Right wing",
       "playingPosition": "RW",
-      "image": "/images/image_125.jpg"
-     },
-     {
+      "image": "/images/image_125.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 126,
       "name": "Ruhul Amin",
-      "department": "Applied chemistry and chemical engineering",
+      "department": "ACCE",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_126.jpg"
-     },
-     {
+      "image": "/images/image_126.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 127,
       "name": "Md Atik Musaddik Zihad",
-      "department": "Genetic Engineering and Biotechnology",
+      "department": "GEB",
       "session": "2021-22",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_127.jpg"
-     },
-     {
+      "image": "/images/image_127.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 128,
       "name": "Md. Mahid Hasan",
-      "department": "Applied chemistry and chemical engineering",
+      "department": "ACCE",
       "session": "2021-22",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_128.jpg"
-     },
-     {
+      "image": "/images/image_128.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 129,
       "name": "ASLAM",
       "department": "ZOOLOGY",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_129.jpg"
-     },
-     {
+      "image": "/images/image_129.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 130,
       "name": "Hasib",
       "department": "Pharmacy",
       "session": "2020-21",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_130.jpg"
-     },
-     {
+      "image": "/images/image_130.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 131,
       "name": "Rasel Haque",
       "department": "Geography and Environment",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_131.jpg"
-     },
-     {
+      "image": "/images/image_131.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 132,
       "name": "Sultan Pramanik",
       "department": "Applied Mathematics",
       "session": "2019-20",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_132.jpg"
-     },
-     {
+      "image": "/images/image_132.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 133,
       "name": "MD Anamul Haque",
       "department": "Botany",
       "session": "2020-21",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_133.jpg"
-     },
-     {
+      "image": "/images/image_133.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 134,
       "name": "Md Rasel Rana",
       "department": "Geology",
       "session": "2019-20",
-      "playingPosition": "LW",
-      "image": "/images/image_134.jpg"
-     },
-     {
+      "Playing Position": "Right wing",
+      "playingPosition": "RW",
+      "image": "/images/image_134.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 135,
       "name": "Abu Sayeed Nayeem",
       "department": "EEE",
       "session": "2020-21",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_135.jpg"
-     },
-     {
+      "image": "/images/image_135.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 136,
       "name": "Raihan Chowdhury",
-      "department": "Soil, Water, and Environment",
+      "department": "SWE",
       "session": "2018-19",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_136.jpg"
-     },
-     {
+      "image": "/images/image_136.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 137,
       "name": "Md. Rayhan",
       "department": "Mathematics",
       "session": "2017-18",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_137.jpg"
-     },
-     {
+      "image": "/images/image_137.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 138,
       "name": "Tanvir Tahan",
       "department": "ISRT",
       "session": "2017-18",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_138.jpg"
-     },
-     {
+      "image": "/images/image_138.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 139,
       "name": "Bandhan",
       "department": "Mathematics",
       "session": "2017-18",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_139.jpg"
-     },
-     {
+      "image": "/images/image_139.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 140,
-      "name": "Tofsir",
-      "department": "Zoology",
-      "session": "2019-20",
-      "playingPosition": "GK",
-      "image": "/images/image_140.jpg"
-     },
-     {
+      "name": "Anowar Hossain Rabbi (Souad)",
+      "department": "Mathematics",
+      "session": "2018-19",
+      "Playing Position": "Left wing",
+      "playingPosition": "LW",
+      "image": "/images/image_140.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 141,
       "name": "Tofsir",
       "department": "Zoology",
       "session": "2019-20",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_141.jpg"
-     },
-     {
+      "image": "/images/image_141.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 142,
       "name": "Shohag",
       "department": "Mathematics",
       "session": "2018-19",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_142.jpg"
-     },
-     {
+      "image": "/images/image_142.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 143,
       "name": "Ikramuzzaman Bayezid",
       "department": "Botany",
       "session": "2021-22",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_143.jpg"
-     },
-     {
+      "image": "/images/image_143.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 144,
       "name": "Rakib Rony",
-      "department": "Applied chemistry and chemical engineering",
+      "department": "ACCE",
       "session": "2020-21",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_144.jpg"
-     },
-     {
+      "image": "/images/image_144.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 145,
       "name": "Md Foysal Hossen",
       "department": "Geography and Environment",
       "session": "2020-21",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_145.jpg"
-     },
-     {
+      "image": "/images/image_145.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 146,
       "name": "K.M. Shafin",
       "department": "Botany",
       "session": "2017-18",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_146.jpg"
-     },
-     {
+      "image": "/images/image_146.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 147,
       "name": "Fahad",
       "department": "Botany",
       "session": "2020-21",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_147.jpg"
-     },
-     {
+      "image": "/images/image_147.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 148,
       "name": "Masfik",
       "department": "Statistics",
       "session": "2022-23",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_148.jpg"
-     },
-     {
+      "image": "/images/image_148.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 149,
       "name": "Rifayet",
       "department": "Pharmacy",
       "session": "2019-20",
+      "Playing Position": "Right wing",
       "playingPosition": "RW",
-      "image": "/images/image_149.jpg"
-     },
-     {
+      "image": "/images/image_149.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 150,
       "name": "Rifat-Bin-Azad",
       "department": "Zoology",
       "session": "2017-18",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_150.jpg"
-     },
-     {
+      "image": "/images/image_150.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 151,
       "name": "Asif Raihan",
       "department": "Chemistry",
       "session": "2018-19",
+      "Playing Position": "Left back",
       "playingPosition": "LB",
-      "image": "/images/image_151.jpg"
-     },
-     {
+      "image": "/images/image_151.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 152,
       "name": "MOHOSIN",
-      "department": "Soil, Water, and Environment",
+      "department": "SWE",
       "session": "2021-22",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_152.jpg"
-     },
-     {
+      "image": "/images/image_152.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 153,
       "name": "Md Ibrahim",
-      "department": "Biochemistry and Molecular Biology",
+      "department": "BMB",
       "session": "2021-22",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_153.jpg"
-     },
-     {
+      "image": "/images/image_153.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 154,
       "name": "MUHAIMIN RASHIN",
-      "department": "Disaster Science and Climate Resilience",
+      "department": "DSCR",
       "session": "2019-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_154.jpg"
-     },
-     {
+      "image": "/images/image_154.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 155,
       "name": "Tanjin Sourav",
       "department": "Botany",
       "session": "2019-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_155.jpg"
-     },
-     {
+      "image": "/images/image_155.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 156,
       "name": "SAIF",
       "department": "Pharmacy",
       "session": "2022-23",
+      "Playing Position": "Left wing",
       "playingPosition": "LW",
-      "image": "/images/image_156.jpg"
-     },
-     {
+      "image": "/images/image_156.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 157,
       "name": "Md. Iram Bin Mahbub",
       "department": "Applied Mathematics",
       "session": "2020-21",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_157.jpg"
-     },
-     {
+      "image": "/images/image_157.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 158,
       "name": "Sakib Sadman",
-      "department": "Soil, Water, and Environment",
+      "department": "SWE",
       "session": "2019-20",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_158.jpg"
-     },
-     {
+      "image": "/images/image_158.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 159,
       "name": "Abdullah",
       "department": "Applied Mathematics",
       "session": "2020-21",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_159.jpg"
-     },
-     {
+      "image": "/images/image_159.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 160,
       "name": "Nur Mohammad",
       "department": "Mathematics",
       "session": "2020-21",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_160.jpg"
-     },
-     {
+      "image": "/images/image_160.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 161,
       "name": "Ajijul Haque Tonmoy",
       "department": "Microbiology",
       "session": "2020-21",
+      "Playing Position": "Goalkeeper",
       "playingPosition": "GK",
-      "image": "/images/image_161.jpg"
-     },
-     {
+      "image": "/images/image_161.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 162,
       "name": "Mashrafi Yeabin Sajib",
       "department": "Oceanography",
       "session": "2021-22",
+      "Playing Position": "Midfielder",
       "playingPosition": "CM",
-      "image": "/images/image_162.jpg"
-     },
-     {
+      "image": "/images/image_162.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 163,
       "name": "Arfin",
       "department": "Applied Mathematics",
       "session": "2020-21",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_163.jpg"
-     },
-     {
+      "image": "/images/image_163.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 164,
       "name": "Km Sami",
       "department": "Mathematics",
       "session": "2021-22",
+      "Playing Position": "Right back",
       "playingPosition": "RB",
-      "image": "/images/image_164.jpg"
-     },
-     {
+      "image": "/images/image_164.jpg",
+      "status": "Unsold"
+    },
+    {
       "SL": 165,
       "name": "Shohag Hossain",
       "department": "Geology",
       "session": "2021-22",
+      "Playing Position": "Right wing",
       "playingPosition": "RW",
-      "image": "/images/image_165.jpg"
-     }
-    ]
+      "image": "/images/image_165.jpg",
+      "status": "Unsold"
+    },
+    {
+      "SL": 166,
+      "name": "Md Iftekhar Uddin Rafi",
+      "department": "ACCE",
+      "session": "2018-19",
+      "Playing Position": "Left wing",
+      "playingPosition": "LW",
+      "image": "/images/image_166.jpg",
+      "status": "Unsold"
+    },
+    {
+      "SL": 167,
+      "name": "Md Selim",
+      "department": "Statistics",
+      "session": "2021-22",
+      "Playing Position": "Forward",
+      "playingPosition": "CF",
+      "image": "/images/image_167.jpg",
+      "status": "Unsold"
+    },
+    {
+      "SL": 168,
+      "name": "Shihab Ahammad Sakib",
+      "department": "Physics",
+      "session": "2021-22",
+      "Playing Position": "Midfielder",
+      "playingPosition": "CM",
+      "image": "/images/image_168.jpg",
+      "status": "Unsold"
+    },
+    {
+      "SL": 169,
+      "name": "Suhanur Rahman Suhag",
+      "department": "Geology",
+      "session": "2018-19",
+      "Playing Position": "Right back",
+      "playingPosition": "RB",
+      "image": "/images/image_169.jpg",
+      "status": "Unsold"
     }
+  ]
+}
